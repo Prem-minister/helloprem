@@ -1,4 +1,4 @@
 <h1 align = "center">helloprem</h1>
-This is the first version of my portfolio
-
+<p>Welcome, this is the first version of my personal website. It was made using HTML, CSS, SCSS and JavaScript.</p>
+<br>
 ![](https://github.com/Prem-minister/helloprem/blob/main/mywebsite.PNG)
