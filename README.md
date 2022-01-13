@@ -5,8 +5,7 @@
 <br>
 
 ## About the website
-I would like to give some credits to  [brittanychiang.com](https://brittanychiang.com)
-
+Here, I would like to thank and give credit to [brittanychiang.com](https://brittanychiang.com) as I got a lot of inspiration from her personal website.
 
 <br>
 
