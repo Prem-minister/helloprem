@@ -1,10 +1,10 @@
 <h1 align = "center">helloprem</h1>
-<p align = "center">Welcome. This is the first version of my personal website. I have developed this website entirely from scratch using HTML, CSS, SCSS and JavaScript. </p>
+<p align = "center">Welcome. This is the first version of my personal website.</p>
 <br>
 <img src = "https://github.com/Prem-minister/helloprem/blob/main/mywebsite.PNG" />
 <br>
 
-
+I have developed this website entirely from scratch using HTML, CSS, SCSS and JavaScript. 
 Here, I would like to thank and give credit to [brittanychiang.com](https://brittanychiang.com) as I took a lot of design inspiration from her personal website. I hope you will check out her personal website as well because she has really outdone it. 
 
 <br>
