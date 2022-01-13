@@ -6,7 +6,7 @@
 
 ## About the website
 
-Here, I would like to thank and give credit to [brittanychiang.com](https://brittanychiang.com) as I got a lot of inspiration from her personal website. I hope you will check out her personal website because 
+Here, I would like to thank and give credit to [brittanychiang.com](https://brittanychiang.com) as I took a lot of design inspiration from her personal website. I hope you will check out her personal website because it is really worth checking out. 
 
 
 <br>
