@@ -5,6 +5,7 @@
 <br>
 
 ## About the website
+I would like to give some credits to  [brittanychiang.com](https://brittanychiang.com)
 
 
 <br>
