@@ -1,5 +1,5 @@
 <h1 align = "center">helloprem</h1>
-<p align = "center">Welcome. This is the first version of my personal website. I have made this website entirely from scratch using HTML, CSS, SCSS and JavaScript. </p>
+<p align = "center">Welcome. This is the first version of my personal website. I have developed this website entirely from scratch using HTML, CSS, SCSS and JavaScript. </p>
 <br>
 <img src = "https://github.com/Prem-minister/helloprem/blob/main/mywebsite.PNG" />
 <br>
