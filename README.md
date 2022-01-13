@@ -5,6 +5,7 @@
 <br>
 
 ##About this website
+
 I have developed this website entirely from scratch using HTML, CSS, SCSS and JavaScript. 
 Here, I would like to thank and give credit to [brittanychiang.com](https://brittanychiang.com) as I took a lot of design inspiration from her personal website. I hope you will check out her personal website as well because she has really outdone it. 
 
