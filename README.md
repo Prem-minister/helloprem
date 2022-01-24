@@ -1,5 +1,5 @@
 <h1 align = "center">helloprem</h1>
-<p align = "center">Welcome. This is the first version of my personal website.</p>
+<p align = "center">Welcome. This is the first version of my portfolio website.</p>
 <br>
 <img src = "https://github.com/Prem-minister/helloprem/blob/main/mywebsite.PNG" />
 <br>
