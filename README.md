@@ -3,7 +3,7 @@
 <br>
 <img src = "https://github.com/Prem-minister/helloprem/blob/main/mywebsite.PNG" />
 <br>
-<h2 align ="center"><a href="https://sharp-sinoussi-a10957.netlify.app/" target="_blank">Click this to view the website!</a></h2>
+<h2 align ="center"><a href="https://premsharaan.netlify.app/" target="_blank">Click this to view the website!</a></h2>
 <br>
 
 ## About this website
