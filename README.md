@@ -10,7 +10,7 @@
 
 I have developed this website entirely from scratch using HTML, CSS, SCSS and JavaScript. It took exactly one month to fully develop this entire website, including the mobile responsive and I hosted my website through netlify. 
 
-Here, I would like to thank and give credit to [brittanychiang.com](https://brittanychiang.com) as I took a lot of design inspiration from her personal website. I hope you will check out her personal website as well because she has really outdone it
+Here, I would like to thank and give credit to [brittanychiang.com](https://brittanychiang.com) as I took a lot of design inspiration from her personal website. I hope you will check out her personal website as well because she has really outdone it.
 
 <br><br>
 
